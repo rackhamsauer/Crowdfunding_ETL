@@ -1,1 +1,2 @@
-# Project-2
+# Project-2 - Crowdfunding ETL
+Alex & Stacie were paired up to complete this assignment. There were 4 portions, Campaign DataFrame, Category Dataframe, Subcategory DataFrame, Contacts DataFrame and creating the Postgres Crowdfunding sql database. Alex completed the first 3 DataFrames, and Stacie Contacts, ERD & SQL Database. We used previous lesson material, student assistance, tutors and chat gpt to assist in the finalization of this assignment. When we created the DB we had an interesting occurrence where Stacie had pulled down Alex's CSV files, but they would not show in the SELECT command in SQL. We needed to troubleshoot this and then merge everything into GitHub for completion.
